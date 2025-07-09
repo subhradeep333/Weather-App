@@ -18,7 +18,7 @@ A simple and responsive Weather App that allows users to search for any city and
 
 ## 📷 Preview
 
-![Weather App Preview](images/preview.png)
+<img src="assets/weathergif.gif">
 
 > Replace this image with an actual screenshot inside the `images` folder.
 
