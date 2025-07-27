@@ -20,8 +20,6 @@ A simple and responsive Weather App that allows users to search for any city and
 
 <img src="assets/weathergif.gif.gif">
 
-> Replace this image with an actual screenshot inside the `images` folder.
-
 ## 🚀 How to Use
 
 1. Clone the repository:
